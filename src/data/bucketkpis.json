@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Employee Experience & Satisfaction",
+    "description": "Measures the internal impact of Adobe Experience Platform and other Adobe apps on teams, focusing on time savings, automation, and employee satisfaction.",
+    "businessKPIs": [
+      "Hours saved per campaign",
+      "Reduction in manual tasks",
+      "Increase in BDR utilization",
+      "Employee satisfaction survey scores"
+    ],
+    "technicalKPIs": [
+      "Automation coverage across workflows",
+      "Reduction in intake-to-activation SLA",
+      "System usability feedback",
+      "Error rates in execution"
+    ],
+    "sourceUseCases": [
+      "Email Automation (expand automation program to all regions, reduce admin overhead ~15%)",
+      "Promo Kits (rapidly create scalable promo content; auto-publish with PeM; reduce admin hours)"
+    ],
+    "formulas": [
+      "Employee Score = (Baseline Hours - Actual Hours) / Baseline Hours × 100",
+      "SLA Efficiency = (Previous SLA - Current SLA) / Previous SLA × 100"
+    ],
+    "intakeNeeds": [
+      "Baseline hours per campaign task",
+      "Manual vs automated process steps",
+      "Automation coverage baseline"
+    ],
+    "whyBusiness": "For executives, satisfaction KPIs show whether automation reduces grunt work and boosts morale while scaling delivery.",
+    "whyTechnical": "For technical leads, confirms system automation, usability, and efficiency improvements.",
+    "kpiHistory": [30, 50]
+  },
+  {
+    "title": "Audience Growth & Quality",
+    "description": "How well Adobe Experience Platform drives richer, higher-quality audiences.",
+    "businessKPIs": [
+      "Total addressable audience growth",
+      "Profile enrichment",
+      "Audience match rate improvements",
+      "Account engagement"
+    ],
+    "technicalKPIs": [
+      "Profile ingestion completeness",
+      "Identity graph resolution",
+      "Data freshness",
+      "Schema coverage"
+    ],
+    "sourceUseCases": [
+      "Audience Selection & Enrichment (create and size audiences using 1P + 3P data)",
+      "AES-Driven Lists (profile accounts with AES features and engagement scores)"
+    ],
+    "formulas": [
+      "Audience Growth % = (New Profiles ÷ Baseline Profiles) × 100",
+      "Account Engagement Score = Weighted interactions ÷ Accounts"
+    ],
+    "intakeNeeds": [
+      "Baseline profile count",
+      "Target enrichment attributes",
+      "Engagement definition rules"
+    ],
+    "whyBusiness": "For Marissa, audience KPIs prove whether top-of-funnel growth is materializing.",
+    "whyTechnical": "Validates ingestion pipelines, AES, and schema functioning.",
+    "kpiHistory": [100, 125]
+  },
+  {
+    "title": "Campaign Activations & Velocity",
+    "description": "Measures speed, scale, and efficiency of campaign execution.",
+    "businessKPIs": [
+      "Campaign launch velocity",
+      "Cross-channel campaign volume",
+      "Activation success rate",
+      "Time-to-market reduction"
+    ],
+    "technicalKPIs": [
+      "Journey orchestration latency",
+      "Activation pipeline throughput",
+      "Error rates in orchestration",
+      "Workflow automation coverage"
+    ],
+    "sourceUseCases": [
+      "Journey Path Optimization (orchestrate journeys across channels)",
+      "Live Event & Webinar Orchestration (pre/post event activation + sales insights)"
+    ],
+    "formulas": [
+      "Velocity = Campaigns ÷ Time Period",
+      "TTM Reduction % = (Prev Avg Days - Current Avg Days) ÷ Prev Avg Days × 100"
+    ],
+    "intakeNeeds": [
+      "Baseline launch times",
+      "Channel-level activation",
+      "Automation coverage"
+    ],
+    "whyBusiness": "For marketers, speed and efficiency of campaigns = direct growth lever.",
+    "whyTechnical": "For engineers, validates pipelines and orchestration reliability.",
+    "kpiHistory": [60, 95]
+  },
+  {
+    "title": "Pipeline & Revenue Impact",
+    "description": "Tracks contribution of marketing to pipeline and revenue acceleration.",
+    "businessKPIs": [
+      "Pipeline influenced",
+      "Attributed revenue",
+      "Conversion rates",
+      "Deal velocity"
+    ],
+    "technicalKPIs": [
+      "Attribution model accuracy",
+      "CRM-to-AEP sync reliability",
+      "Cross-system data integrity",
+      "Pipeline contribution reporting"
+    ],
+    "sourceUseCases": [
+      "Intent Data in CRM (weekly intent data feeds enriched in Dynamics, powering BDR)",
+      "Automated Delivery of Targeting Lists (showing pipeline lift via targeting efficiency)"
+    ],
+    "formulas": [
+      "Pipeline Contribution % = Influenced ÷ Total Pipeline",
+      "Conversion Rate = Opps ÷ Leads × 100"
+    ],
+    "intakeNeeds": [
+      "Baseline influenced pipeline",
+      "Conversion funnel metrics",
+      "Attribution models"
+    ],
+    "whyBusiness": "For leaders, ties AEP directly to pipeline acceleration.",
+    "whyTechnical": "Confirms cross-system sync and attribution reliability.",
+    "kpiHistory": [200, 320]
+  },
+  {
+    "title": "Customer & DX Stakeholder Experience Impact",
+    "description": "Impact on engagement, retention, and overall experience.",
+    "businessKPIs": [
+      "Engagement lift",
+      "Retention lift",
+      "CSAT / NPS",
+      "Lifetime value (LTV)",
+      "Account engagement depth"
+    ],
+    "technicalKPIs": [
+      "Personalization accuracy",
+      "Profile completeness",
+      "Decisioning performance",
+      "Cross-channel stitching accuracy"
+    ],
+    "sourceUseCases": [
+      "Create Audiences via SOI × Intent and POI × Intent",
+      "BDR Content Orchestration (scale account-based orchestration via GenStudio)"
+    ],
+    "formulas": [
+      "Engagement Lift = (Post - Pre) ÷ Pre × 100",
+      "Retention Rate % = Retained ÷ Total Customers"
+    ],
+    "intakeNeeds": [
+      "Baseline engagement metrics",
+      "Satisfaction survey scores",
+      "Touchpoint tracking rules"
+    ],
+    "whyBusiness": "For Marissa, engagement and retention prove business outcomes.",
+    "whyTechnical": "For engineers, validates stitching, identity, and data completeness.",
+    "kpiHistory": [80, 160]
+  },
+  {
+    "title": "Operational Efficiencies",
+    "description": "Marketing cost and time efficiency improvements.",
+    "businessKPIs": [
+      "Campaign production cost savings",
+      "Agency spend reduction",
+      "Efficiency in content workflows",
+      "Time-to-market acceleration"
+    ],
+    "technicalKPIs": [
+      "Automation coverage in workflows",
+      "Error reduction",
+      "System uptime",
+      "Content tagging automation"
+    ],
+    "sourceUseCases": [
+      "Contact Discovery & Upload (use AJO B2B for prioritized contact lists)",
+      "AES Alerts (surface surging accounts; trigger BDR outreach + Slack notifications)"
+    ],
+    "formulas": [
+      "Cost Savings % = (Baseline - Current) ÷ Baseline × 100"
+    ],
+    "intakeNeeds": [
+      "Baseline costs",
+      "Manual process hours",
+      "Automation % coverage"
+    ],
+    "whyBusiness": "For executives, efficiency metrics show ROI from consolidation.",
+    "whyTechnical": "Confirms workflow automation and error reduction.",
+    "kpiHistory": [40, 55]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

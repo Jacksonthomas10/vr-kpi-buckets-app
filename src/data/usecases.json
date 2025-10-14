@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Category Awareness Pilot",
+    "buckets": [
+      "Pipeline & revenue impact",
+      "Campaign activations & velocity",
+      "Operational efficiencies"
+    ],
+    "businessImpact": "High",
+    "technicalEase": "High",
+    "employeeSatisfaction": "High"
+  },
+  {
+    "title": "Target Lists for BDRs",
+    "buckets": [
+      "Sales & Marketing Collaboration",
+      "Omnichannel Orchestration"
+    ],
+    "businessImpact": "Medium",
+    "technicalEase": "Medium",
+    "employeeSatisfaction": "High"
+  },
+  {
+    "title": "Contact Coverage Enrichment (ZoomInfo)",
+    "buckets": [
+      "Integrated Marketing Planning",
+      "Operational efficiencies"
+    ],
+    "businessImpact": "Medium",
+    "technicalEase": "Medium",
+    "employeeSatisfaction": "Medium"
+  },
+  {
+    "title": "Omnichannel Journey Pilot – Segment B",
+    "buckets": [
+      "Omnichannel Orchestration",
+      "Customer Experience Impact",
+      "Campaign activations & velocity"
+    ],
+    "businessImpact": "High",
+    "technicalEase": "Low",
+    "employeeSatisfaction": "Medium"
+  },
+  {
+    "title": "BDR Follow-Up Workflow Automation",
+    "buckets": [
+      "Sales & Marketing Collaboration",
+      "Operational efficiencies"
+    ],
+    "businessImpact": "High",
+    "technicalEase": "High",
+    "employeeSatisfaction": "High"
+  },
+  {
+    "title": "Web-to-RTCDP Lead Activation Sync",
+    "buckets": [
+      "Pipeline & revenue impact",
+      "Integrated Marketing Planning"
+    ],
+    "businessImpact": "Medium",
+    "technicalEase": "High",
+    "employeeSatisfaction": "High"
+  },
+  {
+    "title": "Black Friday Early Access Campaign",
+    "buckets": [
+      "Campaign activations & velocity",
+      "Customer Experience Impact"
+    ],
+    "businessImpact": "High",
+    "technicalEase": "Medium",
+    "employeeSatisfaction": "Medium"
+  }
+]
+
