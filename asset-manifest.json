@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vr-kpi-buckets-app/static/css/main.2000f78d.css",
+    "main.js": "/vr-kpi-buckets-app/static/js/main.dafed693.js",
+    "index.html": "/vr-kpi-buckets-app/index.html",
+    "main.2000f78d.css.map": "/vr-kpi-buckets-app/static/css/main.2000f78d.css.map",
+    "main.dafed693.js.map": "/vr-kpi-buckets-app/static/js/main.dafed693.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2000f78d.css",
+    "static/js/main.dafed693.js"
+  ]
+}
