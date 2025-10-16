@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vr-kpi-buckets-app/static/css/main.a30a5353.css",
-    "main.js": "/vr-kpi-buckets-app/static/js/main.531e06ad.js",
+    "main.css": "/vr-kpi-buckets-app/static/css/main.203e11d4.css",
+    "main.js": "/vr-kpi-buckets-app/static/js/main.9de21e3e.js",
     "index.html": "/vr-kpi-buckets-app/index.html",
-    "main.a30a5353.css.map": "/vr-kpi-buckets-app/static/css/main.a30a5353.css.map",
-    "main.531e06ad.js.map": "/vr-kpi-buckets-app/static/js/main.531e06ad.js.map"
+    "main.203e11d4.css.map": "/vr-kpi-buckets-app/static/css/main.203e11d4.css.map",
+    "main.9de21e3e.js.map": "/vr-kpi-buckets-app/static/js/main.9de21e3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a30a5353.css",
-    "static/js/main.531e06ad.js"
+    "static/css/main.203e11d4.css",
+    "static/js/main.9de21e3e.js"
   ]
 }
